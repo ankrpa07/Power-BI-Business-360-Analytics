@@ -1,9 +1,8 @@
 # Business Insights 360 Power BI Report
 
 ## Project Objectives:
-1. Develop an executive dashboard consolidating [Sales, Finance, and Customer Performance Metrics](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf).
-2. Provide [Profit and Loss Statements by Market and Region](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf).
-
+1. Develop an executive dashboard consolidating [Sales, Finance, and Customer Performance Metrics](https://github.com/ankrpa07/Power-BI-Business-360-Analytics/blob/main/BI%20360.pdf).
+2. Provide [Profit and Loss Statements by Market and Region](https://github.com/ankrpa07/Power-BI-Business-360-Analytics/blob/main/BI%20360.pdf).
 ## Purpose of Business Analytics:
 Enable strategic decision-making by providing insights on sales trends, profitability, and customer metrics.
 
