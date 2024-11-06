@@ -13,14 +13,14 @@ Identify growth opportunities, optimize resource allocation, and measure perform
 Support executive decisions, determine pricing strategies, and highlight areas for operational efficiency and market expansion.
 
 ## Technical & Analytical Skills:
-- Proficiency in Power BI, including DAX for calculated measures.
-- Established relationships in data models using Power Query and Power Pivot.
-- Forecast accuracy analysis and trend visualizations.
-- Integration of additional data sources to enhance model insights.
-- Customized dynamic filters and interactive visual elements for end-user engagement.
+- [x] Proficiency in Power BI, including DAX for calculated measures.
+- [x] Established relationships in data models using Power Query and Power Pivot.
+- [x] Forecast accuracy analysis and trend visualizations.
+- [x] Integration of additional data sources to enhance model insights.
+- [x] Customized dynamic filters and interactive visual elements for end-user engagement.
 
 ## Soft Skills:
-- Analytical mindset for deriving actionable insights from complex datasets.
-- Focused on user experience by designing intuitive, impactful visual reports.
-- Skilled in optimizing data refresh processes for timely report updates.
-- Methodical approach to report planning, ensuring data relevance and clarity.
+- [x] Analytical mindset for deriving actionable insights from complex datasets.
+- [x] Focused on user experience by designing intuitive, impactful visual reports.
+- [x] Skilled in optimizing data refresh processes for timely report updates.
+- [x] Methodical approach to report planning, ensuring data relevance and clarity.
